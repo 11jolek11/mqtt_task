@@ -1,7 +1,7 @@
 import requests
 
 
-number = 6
+number = 5
 url = "http://127.0.0.1:5000/results/testiot43/" + str(number)
 
 payload={}
